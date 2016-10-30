@@ -6,7 +6,7 @@ module OmniAuth
       option :name, :polity
 
       option :client_options, {
-        site: "http://polity.enthusiastick.io",
+        site: "https://polity.enthusiastick.io",
         authorize_path: "/oauth/authorize"
       }
 
